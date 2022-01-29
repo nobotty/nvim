@@ -7,5 +7,5 @@
 以下パスに格納する。
 
 ```
-C:\Users\****\AppData\Local\nvim
+C:\Users\****\AppData\Local\nvim\init.vim
 ```
